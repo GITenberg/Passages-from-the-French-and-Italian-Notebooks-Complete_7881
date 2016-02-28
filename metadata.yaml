@@ -1,0 +1,29 @@
+_repo: Passages-from-the-French-and-Italian-Notebooks-Complete_7881
+creator:
+  author:
+    agent_name: Hawthorne, Nathaniel
+    birthdate: 1804
+    deathdate: 1864
+    gutenberg_agent_id: '28'
+    url: http://www.gutenberg.org/2009/agents/28
+    wikipedia: http://en.wikipedia.org/wiki/Nathaniel_Hawthorne
+description: ''
+gutenberg_issued: '2005-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7881'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Hawthorne, Nathaniel, 1804-1864 -- Diaries'
+- !lcsh 'Hawthorne, Nathaniel, 1804-1864 -- Travel -- Italy'
+- !lcsh 'France -- Description and travel'
+- !lcsh 'Italy -- Description and travel'
+- !lcsh 'Americans -- Europe -- History -- 19th century'
+- !lcsh 'Hawthorne, Nathaniel, 1804-1864 -- Travel -- France'
+- !lcsh 'Novelists, American -- 19th century -- Diaries'
+title: Passages from the French and Italian Notebooks, Complete
+url: http://www.gutenberg.org/ebooks/7881
